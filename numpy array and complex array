@@ -1,0 +1,7 @@
+import numpy as np
+michael_array=np.array([1,2,3,4,])
+michael_complex_array=np.array([1+2j,3+4j,5+6j])
+print(michael_array)
+print(michael_complex_array)
+print(type(michael_array))
+print(type(michael_complex_array))
